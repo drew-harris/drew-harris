@@ -16,5 +16,3 @@
 * Svelte / SvelteKit
 * NestJS
 * Google Cloud
-* Docker
-* Kubernetes
