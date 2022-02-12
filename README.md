@@ -2,7 +2,7 @@
 
 ## Projects
 
-[Stemify](stemify.io)
+[STEMIFY](stemify.io)
 
 [Robolist](robolist.net)
 
