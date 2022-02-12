@@ -1,5 +1,8 @@
 ## Drew Harris
-### Full Stack Web Developer
+
+## Projects
+
+[Stemify](stemify.io)
 
 [Robolist](robolist.net)
 
@@ -7,12 +10,23 @@
 
 [ASL](asl.drewh.net)
 
-## Skills
+[Stem Player](https://chrome.google.com/webstore/detail/stem-player-album-upload/iedjpcecgmldlnkbojiocmdaedhepbpn?hl=en&authuser=1)
+
+### Skills
 * React
-* Next Js
-* Node
-* Go
 * MongoDB
+* Node
 * Svelte / SvelteKit
-* NestJS
+* Go
+* Docker
 * Google Cloud
+* NestJS
+* Next Js
+* Firebase
+
+
+### Currently Learning
+ * SQL
+ * Prisma
+ * Demucs
+ * Socket.io
