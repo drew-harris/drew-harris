@@ -19,14 +19,16 @@
 * Svelte / SvelteKit
 * Go
 * Docker
+* SQL
+* Prisma
 * Google Cloud
 * NestJS
 * Next Js
 * Firebase
 
-
 ### Currently Learning
- * SQL
- * Prisma
- * Demucs
+ * Rust
+ * WebAssembly
+ * C# / .NET
+ * Python
  * Socket.io
