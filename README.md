@@ -26,9 +26,8 @@
 * Next Js
 * Firebase
 
+
 ### Currently Learning
- * Rust
- * WebAssembly
- * C# / .NET
- * Python
  * Socket.io
+ * Swift/SwiftUI
+ * React Native
