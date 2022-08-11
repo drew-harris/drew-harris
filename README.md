@@ -2,7 +2,7 @@
 
 ## Projects
 
-[STEMIFY](stemify.io)
+[STEMIFY](stemify2.net)
 
 [Robolist](robolist.net)
 
@@ -15,6 +15,7 @@
 ### Skills
 * React
 * MongoDB
+* TRPC
 * Node
 * Svelte / SvelteKit
 * Go
