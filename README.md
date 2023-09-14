@@ -8,9 +8,7 @@ Full stack web developer
 
 ✉️  You can contact me at [harrisd@smu.edu](mailto:harrisd@smu.edu)
 
-🚀  I'm currently working on [Robolist](http://robolist.net)
-
-🧠  I'm learning React Native
+🚀  I'm currently working for the HumInGameLab at SMU
 
 ### Skills
 
