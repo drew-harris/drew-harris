@@ -4,7 +4,7 @@ Full stack web developer
 
 🌍  I'm based in Dallas
 
-🖥️  See my portfolio at [drewh.net](http://drewh.net)
+🖥️  See my portfolio at [portfolio.drewh.net](http://portfolio.drewh.net)
 
 ✉️  You can contact me at [harrisd@smu.edu](mailto:harrisd@smu.edu)
 
