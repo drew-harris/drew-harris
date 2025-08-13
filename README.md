@@ -6,9 +6,9 @@ Full stack web developer
 
 🖥️  See my portfolio at [portfolio.drewh.net](http://portfolio.drewh.net)
 
-✉️  You can contact me at [harrisd@smu.edu](mailto:harrisd@smu.edu)
+✉️  You can contact me at [drew@drewh.net](mailto:drew@drewh.net)
 
-🚀  I'm currently working for the HumInGameLab at SMU
+🚀  I'm currently working for InstantDB
 
 ### Skills
 
