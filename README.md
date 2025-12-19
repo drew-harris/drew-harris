@@ -2,7 +2,7 @@ Hi 👋 My name is Drew Harris
 
 Full stack web developer 
 
-🌍  I'm based in Dallas
+🌍  I'm based in SF
 
 🖥️  See my portfolio at [portfolio.drewh.net](http://portfolio.drewh.net)
 
